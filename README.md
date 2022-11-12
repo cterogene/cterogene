@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cterogene" alt="cterogene" /></a> </p>
 
-- 🔭 I’m currently working on [Panier Mobile](https://github.com/cterogene/PanierMobile1.0)
+- 🔭 I’m currently working on [Panier Mobile](https://github.com/cterogene/PanierMobile1.0) and [NFT App](https://github.com/cterogene/React-Native-Nft-app)
 
 - 🌱 I’m currently learning **React, Node.js, Algorithms and Data Structures.**
 
