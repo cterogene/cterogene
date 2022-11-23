@@ -1,13 +1,13 @@
 <h1 align="center">Hi There 👋, I'm Claudio Terogene</h1>
-<h3 align="center">A passionate Software Developer from Haiti</h3>
+<h3 align="center">Software Developer |  Haiti </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cterogene&label=Profile%20views&color=0e75b6&style=flat" alt="cterogene" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cterogene" alt="cterogene" /></a> </p>
 
-- 🔭 I’m currently working on [Panier Mobile](https://github.com/cterogene/PanierMobile1.0) and [NFT App](https://github.com/cterogene/React-Native-Nft-app)
+- 🔭 I’m currently working on [Panier Mobile](https://github.com/cterogene/PanierMobile1.0) and [Share Me](https://github.com/cterogene/Shareme-social-media)
 
-- 🌱 I’m currently learning **React, Node.js, Algorithms and Data Structures.**
+- 🌱 I’m currently learning **React, Node.js, Algorithms and Data Structures, React Native.**
 
 - 🤝 I’m looking for help with **Building a Network of Haitians and other developer.**
 
@@ -34,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cterogene&show_icons=true&locale=en" alt="cterogene" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cterogene&" alt="cterogene" /></p>
