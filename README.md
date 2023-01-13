@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cterogene" alt="cterogene" /></a> </p>
 
-- 🔭 I’m currently working on [Panier Mobile](https://github.com/cterogene/PanierMobile1.0) and [Share Me](https://github.com/cterogene/Shareme-social-media)
+- 🔭 I’m currently working on [Tik-Tik Social Media](https://github.com/cterogene/tik-tik-SocialMedia) and [Share Me](https://github.com/cterogene/Shareme-social-media)
 
 - 🌱 I’m currently learning **React, Node.js, Algorithms and Data Structures, React Native.**
 
 - 🤝 I’m looking for help with **Building a Network of Haitians and other developer.**
 
-- 💬 Ask me about **Android - React - Java**
+- 💬 Ask me about **React | Figma | Development**
 
 - 📫 How to reach me **cterogene@gmail.com**
 
