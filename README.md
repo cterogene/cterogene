@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cterogene" alt="cterogene" /></a> </p>
 
-- 🔭 I’m currently working on [Tik-Tik Social Media](https://github.com/cterogene/tik-tik-SocialMedia)
+- 🔭 I’m currently working on [ECommerce-App](https://github.com/cterogene/ecommerce-app)
 
 - 🌱 I’m currently learning **React, Algorithms and Data Structure**
 
 - 👨‍💻 All of my projects are available at [https://cterogene.netlify.app](https://cterogene.netlify.app)
 
-- 💬 Ask me about **React Java Figma**
+- 💬 Ask me about ** React | Tailwind | Figma **
 
 - 📫 How to reach me **cterogene@gmail.com**
 
 - 📄 Know about my experiences [https://cterogene.netlify.app/about#resume](https://cterogene.netlify.app/about#resume)
 
-- ⚡ Fun fact **I like when I'm programming !**
+- ⚡ Fun fact **I like when I'm programming 👌!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
